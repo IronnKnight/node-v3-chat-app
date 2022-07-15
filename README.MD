@@ -10,4 +10,9 @@
 # Deploying the chat application
 * `git init`
 * `create .gitignore`
+* `add & commit files`
+* `create repository on github`
+* `push an existing repository from the command line`
+* `heroku create app-name`
+* `git push heroku branch-name`
 
